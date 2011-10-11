@@ -11,7 +11,7 @@
 #import "UVToken.h"
 #import "UVSession.h"
 #import "UVUser.h"
-#import "UVCustomField.h";
+#import "UVCustomField.h"
 #import "UVWelcomeViewController.h"
 #import "UVSuggestionListViewController.h"
 #import "UVNetworkUtils.h"
